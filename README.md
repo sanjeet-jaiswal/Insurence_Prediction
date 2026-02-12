@@ -9,20 +9,20 @@ A Machine Learning powered web application that predicts medical insurance charg
 
 ## 📚 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Problem Statement](#problem-statement)
-3. [Dataset Description](#dataset-description)
-4. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
-5. [Feature Engineering](#feature-engineering)
-6. [Exploratory Data Analysis](#exploratory-data-analysis)
-7. [Model Building](#model-building)
-8. [Model Evaluation](#model-evaluation)
-9. [Web Application Development](#web-application-development)
-10. [Deployment](#deployment)
-11. [Key Learnings](#key-learnings)
-12. [Future Improvements](#future-improvements)
-13. [Tech Stack](#tech-stack)
-14. [Author](#author)
+1. [Project Overview](#-project-overview)
+2. [Problem Statement](#-problem-statement)
+3. [Dataset Description](#-dataset-description)
+4. [Data Cleaning & Preprocessing](#-data-cleaning--preprocessing)
+5. [Feature Engineering](#-feature-engineering)
+6. [Exploratory Data Analysis](#-exploratory-data-analysis)
+7. [Model Building](#-model-building)
+8. [Model Evaluation](#-model-evaluation)
+9. [Web Application Development](#-web-application-development)
+10. [Deployment](#-deployment)
+11. [Key Learnings](#-key-learnings)
+12. [Future Improvements](#-future-improvements)
+13. [Tech Stack](#-tech-stack)
+14. [Author](#-author)
 
 ---
 
